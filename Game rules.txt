@@ -1,0 +1,36 @@
+Game rules
+ - piece movement rules
+ - draw
+  - stalemate
+  - 51 moves
+  - insufficient material
+ - Checkmate/win condition
+
+Game UI
+ - Classic wood board
+ - modified classic Staunton design pieces
+ - piece movement animation
+ - Engine difficulty
+ - Chosing white/black/random
+ - Eval bar
+ - Captured pieces
+ - display possible/allowed moves for a piece when its clicked
+
+Engine logic
+ - Bitmaps
+ - Current board score for each side (black and white)
+ - Minimax
+ - Each move evaluation
+
+
+TechStack
+
+- Frontend
+ - HTML, CSS
+- Backend
+ - Engine
+ - Frondend backend api
+
+
+
+1. Build frontend and gamerules
